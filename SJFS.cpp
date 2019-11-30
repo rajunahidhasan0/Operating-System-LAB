@@ -1,4 +1,4 @@
-        ///First Come First Serve(FCFS)///
+        ///Shortest Job First(SJF)->NonPreemptive///
 #include<bits/stdc++.h>
 #define pii pair<int, int>
 using namespace std;
