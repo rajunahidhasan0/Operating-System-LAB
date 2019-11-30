@@ -1,4 +1,4 @@
-        ///Shortest Job First Serve interms of Remaining Time(SJFS)///
+        ///Shortest Job First (SJF)->Preemptive///
 #include<bits/stdc++.h>
 using namespace std;
 
